@@ -24,7 +24,7 @@ This is a **personal portfolio website** for Feeza Kulsoom, a Software Engineeri
 - Styled text with fonts, colors, and spacing for better readability.
 - Navigation bar includes **hover effects**.
 
-### ⚙ **Task 3: Enhancing Functionality with JavaScript**
+###  **Task 3: Enhancing Functionality with JavaScript**
 - **Changes background color** when a button is clicked.
 - **Validates a simple contact form**.
 - **Displays a welcome alert message** when the page loads.
