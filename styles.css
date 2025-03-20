@@ -1,0 +1,65 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #f9a825;
+}
+
+/* Main Content Styling */
+div {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Section Styling */
+h2 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+/* Projects List */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
