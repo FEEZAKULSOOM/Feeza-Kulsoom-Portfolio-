@@ -33,7 +33,7 @@ This is a **personal portfolio website** for Feeza Kulsoom, a Software Engineeri
 - Hosted on **GitHub Pages** (or any other free hosting).
 - Publicly accessible via a **live URL**.
 
-## 📥 How to Run the Project
+## ** How to Run the Project
 1. Clone the repository:
    ```sh
    git clone https://feezakulsoom.github.io/Feeza-Kulsoom-Portfolio-/
@@ -43,6 +43,6 @@ This is a **personal portfolio website** for Feeza Kulsoom, a Software Engineeri
 4. Modify `styles.css` or `script.js` if needed.
 5. To publish updates, push changes to **GitHub Pages**.
 
-## 📧 Contact
+## ** Contact
 - **Email:** feezakulsoom2024@gmail.com
 
