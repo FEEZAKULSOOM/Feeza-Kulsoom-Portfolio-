@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-##  Project Overview
+##  Project Overview of Feeza Kulsoom
 This is a **personal portfolio website** for Feeza Kulsoom, a Software Engineering student. The project is built using **HTML, CSS, and JavaScript** to create a structured, styled, and interactive webpage.
 
 ## 📂 Projects Structure
