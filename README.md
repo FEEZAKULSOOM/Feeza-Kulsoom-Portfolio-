@@ -3,7 +3,7 @@
 ##  Project Overview
 This is a **personal portfolio website** for Feeza Kulsoom, a Software Engineering student. The project is built using **HTML, CSS, and JavaScript** to create a structured, styled, and interactive webpage.
 
-## 📂 Project Structure
+## 📂 Projects Structure
 ```
 📁 portfolio-project/
 │──  index.html       # Main HTML file
@@ -45,4 +45,5 @@ This is a **personal portfolio website** for Feeza Kulsoom, a Software Engineeri
 
 ## ** Contact
 - **Email:** feezakulsoom2024@gmail.com
+
 
